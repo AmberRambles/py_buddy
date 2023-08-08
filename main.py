@@ -11,6 +11,7 @@ response_list = ['That\'s dope! Thanks for telling me!', 'Very interesting. Is t
                  'I don\'t have any experience with that sort of thing.']
 
 if __name__ == '__main__':
+    #TODO #02 create if/else to pass name as a cmd arg
     print('Hello, Amber!')
     random.seed()
     user_input = ''
